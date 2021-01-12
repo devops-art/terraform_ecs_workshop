@@ -47,8 +47,8 @@ In file `alb.tf` we create Application Load Balancer with target groups, securit
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-git clone https://github.com/devops-art/terraform_ecs.git
-cd terraform_ecs
+git clone https://github.com/devops-art/terraform_ecs_workshop.git
+cd terraform_ecs_workshop
 terraform init
 
 The S3 bucket is hardcoded to g/devops-art personal one and used for the demonstration.
